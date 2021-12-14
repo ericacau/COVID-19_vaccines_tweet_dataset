@@ -1,4 +1,4 @@
-# -ITA-COVID-19-Vaccines-Tweet-dataset-
+# [ITA] COVID-19_vaccines_Tweet_dataset-
 
 Dataset of italian tweets about the vaccine against COVID-19.
 
